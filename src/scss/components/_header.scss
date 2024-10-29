@@ -1,0 +1,11 @@
+.header{
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background-color: black;
+  color: aliceblue;
+  &__container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}

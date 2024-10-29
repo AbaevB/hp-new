@@ -1,0 +1,5 @@
+declare module 'gulp-webp' {
+    import { Transform } from 'stream';
+    function webp(options?: { quality?: number }): Transform;
+    export = webp;
+}

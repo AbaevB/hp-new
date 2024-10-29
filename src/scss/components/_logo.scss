@@ -1,0 +1,15 @@
+.logo{
+  display: block;
+  width: 21%;
+  padding: 10px 15px;
+  font-family:TTFirsNeue ;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 45x;
+  color: $accentColor;
+  &__span{
+    display: block;
+    font-size: 16px;
+    text-align: center;
+  }
+}
